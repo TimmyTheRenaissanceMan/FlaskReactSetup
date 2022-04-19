@@ -1,4 +1,4 @@
-# flaskReactSetup
+# FlaskReactSetup
 
 # FlaskSetup
 
